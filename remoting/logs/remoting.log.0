@@ -1,0 +1,10 @@
+Oct 29, 2026 8:01:55 PM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: student-laptop
+Oct 29, 2026 8:01:55 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3386.v353e57a_1b_ea_0
+Oct 29, 2026 8:01:55 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\reeti\Downloads\Share_With_Students\Share_With_Students\02_Assignment\FestPass_Java_Project\festpass-java\remoting as a remoting work directory
+Oct 29, 2026 8:01:56 PM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Oct 29, 2026 8:01:56 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
